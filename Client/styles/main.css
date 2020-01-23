@@ -1,0 +1,5 @@
+@import './Base/Fonts.css';
+
+body {
+    font-family: 'Oxygen', sans-serif;
+}

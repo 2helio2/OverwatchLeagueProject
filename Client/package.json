@@ -1,0 +1,26 @@
+{
+  "name": "overwatchleagueapp",
+  "version": "1.0.0",
+  "description": "Overwatch League Fan Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "Overwatch",
+    "League",
+    "React",
+    "js",
+    "Next"
+  ],
+  "author": "Gabriel Diaz",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^9.2.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}

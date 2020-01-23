@@ -1,0 +1,12 @@
+.medium {
+    width: 220px;
+}
+
+.wrap {
+    display: flex;
+    justify-content: center;
+}
+
+.logo { 
+    display: inline-block;
+}

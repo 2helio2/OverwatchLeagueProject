@@ -1,0 +1,11 @@
+.wrap {
+    background-color: var(--dark-bg-color);
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.item {
+    composes: bright-link from '../../styles/Base/Fonts.css';
+    padding: 0 15px;
+}
